@@ -1,0 +1,1435 @@
+Starting sequence 3 (output as: C:\Users\jose_\Desktop\test-output\2021-12-21_21h45m36s_nhlstenden\sequences\2021-12-21_21h56m04s_nhlstenden_sequence_3.testar)
+
+ExecutedAction [1]: 
+ @Action ConcreteID = ACjvfgn87f1606118854 AbstractID = AAjvfgn87f1606118854
+ ConcreteID CUSTOM = ACCj5zahs80204691681 AbstractID CUSTOM = AAC91hoij1b1862332139
+ @State ConcreteID = SCrcncwi26361938927385 AbstractID = SR6cqbvd22112323753262
+ ConcreteID CUSTOM = SCC1ldepo52a01393723147 AbstractID CUSTOM = SAC1fbw9zec632962756612
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1xkdke21f2824888292, WR1uyc32532851330, WT1uyc32532851330, WPhb5pf01b4234048958
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:806.0 y:20.0 w:155.0 h:20.0]
+		CHILDREN = 0
+		PATH = [1, 0, 0, 0, 1, 1, 1, 0]
+	DESCRIPTION = Left Click at 'Over NHL Stenden'
+	TEXT = Compound Action =
+		Move mouse to (883.5, 30.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+ExecutedAction [2]: 
+ @Action ConcreteID = AC1vcyng3a11957261691 AbstractID = AA1vcyng3a11957261691
+ ConcreteID CUSTOM = ACC1jcsd6ea01806969108 AbstractID CUSTOM = AAC1vfsmy71e2650101796
+ @State ConcreteID = SC100vncd1ba73526399631 AbstractID = SR150qzzm18722837285767
+ ConcreteID CUSTOM = SCCh78np51e51229577433 AbstractID CUSTOM = SAC3plqd498e1139257612
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, 43.5) To (1528.5, 433.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, 43.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, 433.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [3]: 
+ @Action ConcreteID = AC10cpnaka52122196983 AbstractID = AA10cpnaka52122196983
+ ConcreteID CUSTOM = ACCv03xata63802490252 AbstractID CUSTOM = AAC48mcda1f2874198040
+ @State ConcreteID = SC1dgy7141b37692729967 AbstractID = SR18akdq71809997226231
+ ConcreteID CUSTOM = SCCuiqew91dc23826335126 AbstractID CUSTOM = SAC10i1e2696a1245086170
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3520.5) To (1528.5, -3448.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3520.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -3448.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [4]: 
+ @Action ConcreteID = ACoauomna5316961177 AbstractID = AAoauomna5316961177
+ ConcreteID CUSTOM = ACCmrcrata72838241812 AbstractID CUSTOM = AACi155ow1f3383364274
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCC1t7pgj21d2e1259814044 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3486.5) To (1528.5, -2863.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3486.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2863.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [5]: 
+ @Action ConcreteID = AClmhmmpa51321359299 AbstractID = AAlmhmmpa51321359299
+ ConcreteID CUSTOM = ACC127z39va6335794970 AbstractID CUSTOM = AACi155ou1f772941749
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCCcrloe61d264162549349 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3442.5) To (1528.5, -2893.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3442.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2893.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [6]: 
+ @Action ConcreteID = ACmyickta5307637342 AbstractID = AAmyickta5307637342
+ ConcreteID CUSTOM = ACCrzk4eoa62650306134 AbstractID CUSTOM = AACi155ou1f772941749
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCCo1qg291d343791147489 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3402.5) To (1528.5, -3171.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3402.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -3171.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [7]: 
+ @Action ConcreteID = ACwayvtwa51015886874 AbstractID = AAwayvtwa51015886874
+ ConcreteID CUSTOM = ACClsi7i0a63539855765 AbstractID CUSTOM = AACi155ou1f772941749
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCCz2i3sa1d2f1982689618 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3362.5) To (1528.5, -3290.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3362.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -3290.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [8]: 
+ @Action ConcreteID = AC15yji07a51508202672 AbstractID = AA15yji07a51508202672
+ ConcreteID CUSTOM = ACC15s8npva62177694818 AbstractID CUSTOM = AACi155ow1f3383364274
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCCdrfbi11d213523840895 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3322.5) To (1528.5, -3091.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3322.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -3091.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [9]: 
+ @Action ConcreteID = AC2dkbvma51966935939 AbstractID = AA2dkbvma51966935939
+ ConcreteID CUSTOM = ACC1u064jda6918477790 AbstractID CUSTOM = AACi155ow1f3383364274
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCCubzgtw1d231523179845 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3282.5) To (1528.5, -3131.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3282.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -3131.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [10]: 
+ @Action ConcreteID = AC14ew19ba53830772734 AbstractID = AA14ew19ba53830772734
+ ConcreteID CUSTOM = ACCe7cooca7472779496 AbstractID CUSTOM = AACi155op1f2960568854
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCC142899b1d331556925711 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3242.5) To (1528.5, -3091.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3242.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -3091.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [11]: 
+ @Action ConcreteID = AC1xrlro5a51291595926 AbstractID = AA1xrlro5a51291595926
+ ConcreteID CUSTOM = ACCj6te4ca63967695268 AbstractID CUSTOM = AACi155op1f2960568854
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCCvko8bz1d372077015247 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3202.5) To (1528.5, -2653.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3202.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2653.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [12]: 
+ @Action ConcreteID = AC82y8y4a52469454494 AbstractID = AA82y8y4a52469454494
+ ConcreteID CUSTOM = ACCsr2hpta62320446257 AbstractID CUSTOM = AACi155ow1f3383364274
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCCdin2mj1d1f3441160173 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3162.5) To (1528.5, -2772.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3162.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2772.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [13]: 
+ @Action ConcreteID = ACd5h61ga53674728724 AbstractID = AAd5h61ga53674728724
+ ConcreteID CUSTOM = ACCp5lxxia63139703719 AbstractID CUSTOM = AACi155or1f1584976698
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCCse9gro1d2f1850904701 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3122.5) To (1528.5, -2732.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3122.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2732.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [14]: 
+ @Action ConcreteID = ACmhxpaja52980079878 AbstractID = AAmhxpaja52980079878
+ ConcreteID CUSTOM = ACCkpjrsya52085900976 AbstractID CUSTOM = AACi155or1f1584976698
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCCey2ney1d17277654909 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3082.5) To (1528.5, -2851.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3082.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2851.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [15]: 
+ @Action ConcreteID = ACrkgmdva5425313462 AbstractID = AArkgmdva5425313462
+ ConcreteID CUSTOM = ACC14vchpka72344027369 AbstractID CUSTOM = AACi155oq1f696247212
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCC1iiw58w1d253586207009 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3042.5) To (1528.5, -2811.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3042.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2811.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [16]: 
+ @Action ConcreteID = AC1tlsbrka51214948598 AbstractID = AA1tlsbrka51214948598
+ ConcreteID CUSTOM = ACC1284anpa6152973313 AbstractID CUSTOM = AACi155op1f2960568854
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCC1asgpnt1d33366317713 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -3002.5) To (1528.5, -2771.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -3002.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2771.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [17]: 
+ @Action ConcreteID = AC15hbhvba53673059612 AbstractID = AA15hbhvba53673059612
+ ConcreteID CUSTOM = ACC1thc2u8a6282605366 AbstractID CUSTOM = AACi155ow1f3383364274
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCC1lf2c0n1d23453154655 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2962.5) To (1528.5, -2339.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2962.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2339.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [18]: 
+ @Action ConcreteID = AC13lm9x3a52488171738 AbstractID = AA13lm9x3a52488171738
+ ConcreteID CUSTOM = ACCh7utvpa5351013574 AbstractID CUSTOM = AACi155ow1f3383364274
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCCipvmh11d15133925169 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2924.5) To (1528.5, -2773.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2924.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2773.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [19]: 
+ @Action ConcreteID = AC10iyn23a51469842982 AbstractID = AA10iyn23a51469842982
+ ConcreteID CUSTOM = ACCluh6sta53635145219 AbstractID CUSTOM = AACi155oq1f696247212
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCC5rdkeu1d38437924677 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2884.5) To (1528.5, -2812.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2884.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2812.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [20]: 
+ @Action ConcreteID = AC1mlnfcha54250359142 AbstractID = AA1mlnfcha54250359142
+ ConcreteID CUSTOM = ACClfd8iga73316115782 AbstractID CUSTOM = AACi155op1f2960568854
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCC1cj0lwf1d293071542254 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2844.5) To (1528.5, -2693.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2844.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2693.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [21]: 
+ @Action ConcreteID = AC17bdbula53815474170 AbstractID = AA17bdbula53815474170
+ ConcreteID CUSTOM = ACCy6uuyoa53422221125 AbstractID CUSTOM = AACi155ov1f1494554403
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCC5fhz8b1d45725974487 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2802.5) To (1528.5, -2412.5)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2802.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2412.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [22]: 
+ @Action ConcreteID = ACdisnuba52489204792 AbstractID = AAdisnuba52489204792
+ ConcreteID CUSTOM = ACC1xs6yaoa62359351231 AbstractID CUSTOM = AACi155op1f2960568854
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCChyhwon1d3e1612424123 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2762.5) To (1528.5, -2139.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2762.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2139.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [23]: 
+ @Action ConcreteID = AC15rpv3pa53130811122 AbstractID = AA15rpv3pa53130811122
+ ConcreteID CUSTOM = ACCp2wvvsa7685690989 AbstractID CUSTOM = AACi155os1f3223078553
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCC15hfyzj1d273515072161 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2722.5) To (1528.5, -2412.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2722.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2412.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [24]: 
+ @Action ConcreteID = ACrbh08da531491756 AbstractID = AArbh08da531491756
+ ConcreteID CUSTOM = ACCnk9v1ca73161667764 AbstractID CUSTOM = AACi155ou1f772941749
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCC1nifs2e1d2a1799914174 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2682.5) To (1528.5, -2213.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2682.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2213.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [25]: 
+ @Action ConcreteID = ACnpb9bw804209352528 AbstractID = AAnpb9bw804209352528
+ ConcreteID CUSTOM = ACC69d2gw811817178698 AbstractID CUSTOM = AACh100p01b1388257126
+ @State ConcreteID = SCjuzsm71aa82005437446 AbstractID = SRkjrt8j178e3443630103
+ ConcreteID CUSTOM = SCC86rnwv1d2c2073325424 AbstractID CUSTOM = SAC14emwzx9401988581360
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1urhj782c532785773, WR1uyc32532851330, WT1uyc32532851330, WPmx47r628351374987
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:135.0 y:160.0 w:383.0 h:232.0]
+		CHILDREN = 1
+		PATH = [1, 0, 2, 0, 0, 0, 0, 0, 4, 0, 12, 0]
+	DESCRIPTION = Left Click at 'a'
+	TEXT = Compound Action =
+		Move mouse to (326.5, 276.0).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+ExecutedAction [26]: 
+ @Action ConcreteID = ACarb23b9f1187153575 AbstractID = AAarb23b9f1187153575
+ ConcreteID CUSTOM = ACC1na3vq2a04280749536 AbstractID CUSTOM = AACrvy9w11e2952679677
+ @State ConcreteID = SC1knncldc92567612318 AbstractID = SR4753rzafa3018795056
+ ConcreteID CUSTOM = SCCyhwwxjdbe2040568957 AbstractID CUSTOM = SACq99hw64e42031344570
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, 43.5) To (1528.5, 667.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, 43.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, 667.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [27]: 
+ @Action ConcreteID = ACr4h2fea24101767752 AbstractID = AAr4h2fea24101767752
+ ConcreteID CUSTOM = ACC11tanpja31083676247 AbstractID CUSTOM = AACrvy9w11e2952679677
+ @State ConcreteID = SC1knncldc92567612318 AbstractID = SR4753rzafa3018795056
+ ConcreteID CUSTOM = SCC13etie5dc7757129256 AbstractID CUSTOM = SACq99hw64e42031344570
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -821.5) To (1528.5, -198.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -821.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -198.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [28]: 
+ @Action ConcreteID = AC73ktjy80192125035 AbstractID = AA73ktjy80192125035
+ ConcreteID CUSTOM = ACC9tmwy1823080602665 AbstractID CUSTOM = AAC16r3zc91b4053518544
+ @State ConcreteID = SC1knncldc92567612318 AbstractID = SR4753rzafa3018795056
+ ConcreteID CUSTOM = SCC1pllyhoda72100201083 AbstractID CUSTOM = SACq99hw64e42031344570
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC1x4mz7i1f2638245032, WR1uyc32532851330, WT1uyc32532851330, WPgvf48g1b3380496114
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:1035.0 y:684.0 w:116.0 h:17.0]
+		CHILDREN = 0
+		PATH = [1, 0, 5, 0, 0, 1, 1, 0]
+	DESCRIPTION = Left Click at 'Privacy statement'
+	TEXT = Compound Action =
+		Move mouse to (1093.0, 692.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+ExecutedAction [29]: 
+ @Action ConcreteID = ACl0y3m3ad589685805 AbstractID = AAl0y3m3ad589685805
+ ConcreteID CUSTOM = ACC1q82z5haf3303642720 AbstractID CUSTOM = AAC1lxzmfm1d2560259862
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1g39m96321f1123517009 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, 43.5) To (1528.5, 169.89473684210526)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, 43.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, 169.89473684210526).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [30]: 
+ @Action ConcreteID = ACo2mp3ob13826561066 AbstractID = AAo2mp3ob13826561066
+ ConcreteID CUSTOM = ACC1s8xhhxb02924994638 AbstractID CUSTOM = AACkhuy1s1e849449605
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCj8etiv321591379213 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2347.5) To (1528.5, -1986.7894736842106)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2347.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1986.7894736842106).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [31]: 
+ @Action ConcreteID = AC1bbl9f7b13690097929 AbstractID = AA1bbl9f7b13690097929
+ ConcreteID CUSTOM = ACCej9rgjb2644229 AbstractID CUSTOM = AACkhuy1u1e3702518697
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCi0eqpu32101077788106 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2308.5) To (1528.5, -2014.7368421052633)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2308.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2014.7368421052633).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [32]: 
+ @Action ConcreteID = AC1j5vnrsb1646109690 AbstractID = AA1j5vnrsb1646109690
+ ConcreteID CUSTOM = ACC1dtbzx9b32498752340 AbstractID CUSTOM = AACkhuy1u1e3702518697
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC19xqxtx321b4039589010 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2269.5) To (1528.5, -1674.4736842105262)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2269.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1674.4736842105262).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [33]: 
+ @Action ConcreteID = AC1b1qib11441012218 AbstractID = AA1b1qib11441012218
+ ConcreteID CUSTOM = ACC1jht3bmb12379327666 AbstractID CUSTOM = AACkhuy1t1e1168548371
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC3ot3tr321f570412634 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2228.5) To (1528.5, -1767.3684210526317)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2228.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1767.3684210526317).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [34]: 
+ @Action ConcreteID = AC1kv4w3rb13448146555 AbstractID = AA1kv4w3rb13448146555
+ ConcreteID CUSTOM = ACCwdtryob23179279690 AbstractID CUSTOM = AACkhuy201e1014635191
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC8x8qni32173833112242 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2188.5) To (1528.5, -1727.3684210526317)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2188.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1727.3684210526317).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [35]: 
+ @Action ConcreteID = AC18uj1ob13771889131 AbstractID = AA18uj1ob13771889131
+ ConcreteID CUSTOM = ACC1z007u4b11870925843 AbstractID CUSTOM = AAC1lxzmfp1d3908076441
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCdupyhm3223620608367 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2149.5) To (1528.5, -2090.0526315789475)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2149.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -2090.0526315789475).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [36]: 
+ @Action ConcreteID = ACawoceyb12504920978 AbstractID = AAawoceyb12504920978
+ ConcreteID CUSTOM = ACCyj5d5eb22037924501 AbstractID CUSTOM = AAC1lxzmfq1d2683810575
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1h55bqs3210998480282 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2108.5) To (1528.5, -1747.7894736842106)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2108.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1747.7894736842106).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [37]: 
+ @Action ConcreteID = AC2b6uuqb12089483519 AbstractID = AA2b6uuqb12089483519
+ ConcreteID CUSTOM = ACC8wuew7b21191918796 AbstractID CUSTOM = AAC1lxzmfq1d2683810575
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCn7kswl32182029564101 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2069.5) To (1528.5, -1943.1052631578948)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2069.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1943.1052631578948).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [38]: 
+ @Action ConcreteID = ACgle4ok803374875343 AbstractID = AAgle4ok803374875343
+ ConcreteID CUSTOM = ACC4l5z83813099872063 AbstractID CUSTOM = AACzer5u3192337875857
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCtei3ns32283295125415 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WCifser757868678733, WR1uyc32532851330, WT2zwep22c2621078074, WP1y8y3nl53955313658
+		ROLE = WdA
+		TITLE = Van wie leggen wij persoonsgegevens vast?
+		SHAPE = Rect [x:415.0 y:142.0 w:577.0 h:35.0]
+		CHILDREN = 0
+		PATH = [1, 0, 2, 0, 0, 0, 0, 0, 4, 0, 0, 6, 0]
+	DESCRIPTION = Left Click at 'Van wie leggen wij persoonsgegevens vast?'
+	TEXT = Compound Action =
+		Move mouse to (703.5, 159.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+ExecutedAction [39]: 
+ @Action ConcreteID = AC3afcmab11735462736 AbstractID = AA3afcmab11735462736
+ ConcreteID CUSTOM = ACC1mzun0vb23014793983 AbstractID CUSTOM = AACkhuy201e1014635191
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCnj3r4j32061532178892 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -2027.5) To (1528.5, -1700.2631578947369)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -2027.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1700.2631578947369).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [40]: 
+ @Action ConcreteID = ACjkfamb13070178591 AbstractID = AAjkfamb13070178591
+ ConcreteID CUSTOM = ACC1ros9iwb21205824908 AbstractID CUSTOM = AAC1lxzmfn1d117367477
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC17o8g9f3228136918782 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -1990.5) To (1528.5, -1864.1052631578948)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -1990.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1864.1052631578948).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [41]: 
+ @Action ConcreteID = AC50bk0pad1998417053 AbstractID = AA50bk0pad1998417053
+ ConcreteID CUSTOM = ACCgcmeukaf1200307666 AbstractID CUSTOM = AAC14w8zcx1d1179086093
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1211ayl321b2507450109 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (458.5, 4623.5) To (656.3333333333334, 4623.5)
+	TEXT = Compound Action =
+		Move mouse to (458.5, 4623.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (656.3333333333334, 4623.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [42]: 
+ @Action ConcreteID = AC18y200aa54058460799 AbstractID = AA18y200aa54058460799
+ ConcreteID CUSTOM = ACC1xynt0ia7179235439 AbstractID CUSTOM = AAC1lxzmfs1d2018483720
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1ty3em532171465249960 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -1947.5) To (1528.5, -1324.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -1947.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1324.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [43]: 
+ @Action ConcreteID = AC1al5ezmb13586781857 AbstractID = AA1al5ezmb13586781857
+ ConcreteID CUSTOM = ACC1k5j6qmb13834867801 AbstractID CUSTOM = AACkhuy1s1e849449605
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCfqha8p3222471656201 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -1911.5) To (1528.5, -1316.4736842105262)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -1911.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1316.4736842105262).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [44]: 
+ @Action ConcreteID = ACle9twsa52361312571 AbstractID = AAle9twsa52361312571
+ ConcreteID CUSTOM = ACC17zxw65a62291157843 AbstractID CUSTOM = AAC1lxzmfl1d4020062080
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1ah9wwo320c483971734 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -1869.5) To (1528.5, -1877.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -1869.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1877.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [45]: 
+ @Action ConcreteID = AC1bflz9fb14195430468 AbstractID = AA1bflz9fb14195430468
+ ConcreteID CUSTOM = ACC7dxxulb23469781050 AbstractID CUSTOM = AACkhuy1z1e2898593574
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCidfr0q32143558055491 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -1829.5) To (1528.5, -1234.4736842105262)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -1829.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1234.4736842105262).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [46]: 
+ @Action ConcreteID = ACbaw7l4b12033687503 AbstractID = AAbaw7l4b12033687503
+ ConcreteID CUSTOM = ACCpcz246b11031232434 AbstractID CUSTOM = AACkhuy1v1e2879963967
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC12n0kz3222599819438 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -1788.5) To (1528.5, -1528.2105263157896)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -1788.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1528.2105263157896).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [47]: 
+ @Action ConcreteID = AC1m07ddpb130691320 AbstractID = AA1m07ddpb130691320
+ ConcreteID CUSTOM = ACC1oeg6h1b14164612730 AbstractID CUSTOM = AACkhuy1s1e849449605
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCb7ubng321d646827038 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -1749.5) To (1528.5, -1154.4736842105262)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -1749.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1154.4736842105262).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [48]: 
+ @Action ConcreteID = ACd40wt5ad1692143626 AbstractID = AAd40wt5ad1692143626
+ ConcreteID CUSTOM = ACCn0zf5oae4068171032 AbstractID CUSTOM = AAC14w8zcx1d1179086093
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC635ip332262107621615 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (458.5, 4865.5) To (656.3333333333334, 4865.5)
+	TEXT = Compound Action =
+		Move mouse to (458.5, 4865.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (656.3333333333334, 4865.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [49]: 
+ @Action ConcreteID = ACyj9dylb11293955969 AbstractID = AAyj9dylb11293955969
+ ConcreteID CUSTOM = ACCqwv8sib32586868550 AbstractID CUSTOM = AACkhuy201e1014635191
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1g9dy86320d2623881119 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -1707.5) To (1528.5, -1313.3157894736844)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -1707.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1313.3157894736844).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [50]: 
+ @Action ConcreteID = ACd5n8rfa52766544556 AbstractID = AAd5n8rfa52766544556
+ ConcreteID CUSTOM = ACClrsd7ia61726302263 AbstractID CUSTOM = AACkhuy1x1e1120626186
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1xwtw0b3207401841140 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -1670.5) To (1528.5, -1047.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -1670.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1047.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [51]: 
+ @Action ConcreteID = ACrtfho7b1175720758 AbstractID = AArtfho7b1175720758
+ ConcreteID CUSTOM = ACCou4iieb33304231382 AbstractID CUSTOM = AACkhuy1w1e902583964
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC106o7nj322c1374440585 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -1627.5) To (1528.5, -1065.9473684210527)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -1627.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1065.9473684210527).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [52]: 
+ @Action ConcreteID = AC1az487zb11040512889 AbstractID = AA1az487zb11040512889
+ ConcreteID CUSTOM = ACCohovy2b21190018559 AbstractID CUSTOM = AACkhuy1s1e849449605
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCn5jiut32133377886934 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -1589.5) To (1528.5, -1061.4210526315792)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -1589.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -1061.4210526315792).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [53]: 
+ @Action ConcreteID = AC1jy7g5k7f1202644205 AbstractID = AA1jy7g5k7f1202644205
+ ConcreteID CUSTOM = ACC1dik2q4802679189386 AbstractID CUSTOM = AACzer5u7192352276360
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCq9zewx32161622971018 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftClickAt
+	TARGET =
+		WIDGET = WC155oied311719972494, WR1uyc32532851330, WT1uyc32532851330, WP1kzg26v2d702514371
+		ROLE = WdA
+		TITLE = 
+		SHAPE = Rect [x:445.0 y:24.0 w:511.0 h:23.0]
+		CHILDREN = 0
+		PATH = [1, 0, 2, 0, 0, 0, 0, 0, 4, 0, 0, 2, 8, 0]
+	DESCRIPTION = Left Click at 'Hoe lang gebruiken en bewaren wij jouw persoonsgegevens?'
+	TEXT = Compound Action =
+		Move mouse to (700.5, 35.5).
+		Press Mouse Button BUTTON1
+		Release Mouse Button BUTTON1
+
+ExecutedAction [54]: 
+ @Action ConcreteID = ACunmhdza5737234242 AbstractID = AAunmhdza5737234242
+ ConcreteID CUSTOM = ACC16to8m2a6308047317 AbstractID CUSTOM = AACkhuy1z1e2898593574
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCwq4w1031fd2103128197 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -7083.5) To (1528.5, -6460.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -7083.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6460.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [55]: 
+ @Action ConcreteID = AC1hr2sgzb02797048280 AbstractID = AA1hr2sgzb02797048280
+ ConcreteID CUSTOM = ACC1bv16wrb24179962303 AbstractID CUSTOM = AAC1lxzmfo1d1912197667
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1ca0dow32092792609991 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -7046.5) To (1528.5, -6685.789473684211)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -7046.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6685.789473684211).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [56]: 
+ @Action ConcreteID = ACmyjkalb0739847882 AbstractID = AAmyjkalb0739847882
+ ConcreteID CUSTOM = ACC1atbqyjb13823196496 AbstractID CUSTOM = AACkhuy1v1e2879963967
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCf4owtg320b2850299208 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -7005.5) To (1528.5, -6845.631578947368)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -7005.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6845.631578947368).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [57]: 
+ @Action ConcreteID = ACwmiy9ab13720667667 AbstractID = AAwmiy9ab13720667667
+ ConcreteID CUSTOM = ACC1xmc4y4b2313308882 AbstractID CUSTOM = AAC1lxzmfl1d4020062080
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC11fj7zw322b818288328 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6964.5) To (1528.5, -6402.9473684210525)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6964.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6402.9473684210525).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [58]: 
+ @Action ConcreteID = AC1sldn3ya54189578560 AbstractID = AA1sldn3ya54189578560
+ ConcreteID CUSTOM = ACCnx77xqa61481385405 AbstractID CUSTOM = AAC1lxzmfp1d3908076441
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCqcb8z2322a2752897979 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6924.5) To (1528.5, -6301.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6924.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6301.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [59]: 
+ @Action ConcreteID = AC1tnyrx9b0258538439 AbstractID = AA1tnyrx9b0258538439
+ ConcreteID CUSTOM = ACCj2kaxeb03196416042 AbstractID CUSTOM = AAC1lxzmfr1d256421534
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1h0izis321577680920 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6884.5) To (1528.5, -6724.631578947368)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6884.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6724.631578947368).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [60]: 
+ @Action ConcreteID = ACd4in7db02991126155 AbstractID = AAd4in7db02991126155
+ ConcreteID CUSTOM = ACCy0h3xtb22387613363 AbstractID CUSTOM = AAC1lxzmfq1d2683810575
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC13hs05v321e1622792645 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6844.5) To (1528.5, -6617.684210526316)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6844.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6617.684210526316).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [61]: 
+ @Action ConcreteID = AC1vmm5m4b13549062639 AbstractID = AA1vmm5m4b13549062639
+ ConcreteID CUSTOM = ACCll27lvb21471177175 AbstractID CUSTOM = AACkhuy201e1014635191
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC4t5cni32073434857502 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6805.5) To (1528.5, -6612.1578947368425)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6805.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6612.1578947368425).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [62]: 
+ @Action ConcreteID = ACc49cepb03793752524 AbstractID = AAc49cepb03793752524
+ ConcreteID CUSTOM = ACCglp4mwb11769324727 AbstractID CUSTOM = AACkhuy1y1e3686938544
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCClifwbb32113956207980 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6764.5) To (1528.5, -6169.473684210527)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6764.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6169.473684210527).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [63]: 
+ @Action ConcreteID = ACei3c5ib02762195500 AbstractID = AAei3c5ib02762195500
+ ConcreteID CUSTOM = ACC1d8cn7mb1811288345 AbstractID CUSTOM = AAC1lxzmfl1d4020062080
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCm1lzbi32281571489527 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6724.5) To (1528.5, -6631.578947368421)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6724.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6631.578947368421).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [64]: 
+ @Action ConcreteID = AC1imdm6pb03577617418 AbstractID = AA1imdm6pb03577617418
+ ConcreteID CUSTOM = ACC1h1lj1jb21017210138 AbstractID CUSTOM = AAC1lxzmfl1d4020062080
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1see4zs322d3530383455 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6683.5) To (1528.5, -6255.842105263158)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6683.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6255.842105263158).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [65]: 
+ @Action ConcreteID = AC1fk4k60b01942400889 AbstractID = AA1fk4k60b01942400889
+ ConcreteID CUSTOM = ACC1o5li1fb21900222799 AbstractID CUSTOM = AAC1lxzmfs1d2018483720
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1a0d3ul321f3299490569 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6645.5) To (1528.5, -6050.473684210527)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6645.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6050.473684210527).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [66]: 
+ @Action ConcreteID = AC1tkcz6yb01651854927 AbstractID = AA1tkcz6yb01651854927
+ ConcreteID CUSTOM = ACCmyrp5nb12155662162 AbstractID CUSTOM = AAC1lxzmfl1d4020062080
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC5v1vj132211307036533 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6604.5) To (1528.5, -6176.842105263158)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6604.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6176.842105263158).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [67]: 
+ @Action ConcreteID = AC1539qm3b03082204789 AbstractID = AA1539qm3b03082204789
+ ConcreteID CUSTOM = ACCy4e66yb0170488043 AbstractID CUSTOM = AACkhuy1z1e2898593574
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCymktwa321d776580406 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6565.5) To (1528.5, -6439.105263157895)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6565.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6439.105263157895).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [68]: 
+ @Action ConcreteID = ACanuzc0b11932658668 AbstractID = AAanuzc0b11932658668
+ ConcreteID CUSTOM = ACC1p4acheb23249063986 AbstractID CUSTOM = AAC1lxzmfm1d2560259862
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC6dxemr321e4229722299 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6524.5) To (1528.5, -6331.1578947368425)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6524.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6331.1578947368425).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [69]: 
+ @Action ConcreteID = AC1c9f9z5a92149562570 AbstractID = AA1c9f9z5a92149562570
+ ConcreteID CUSTOM = ACC1ca1v7fab4241749132 AbstractID CUSTOM = AAC14w8zcx1d1179086093
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC18kjubz31e83465426892 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (458.5, 90.5) To (656.3333333333334, 90.5)
+	TEXT = Compound Action =
+		Move mouse to (458.5, 90.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (656.3333333333334, 90.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [70]: 
+ @Action ConcreteID = AC10vme3rb01746952088 AbstractID = AA10vme3rb01746952088
+ ConcreteID CUSTOM = ACCjhfhr0b03051658663 AbstractID CUSTOM = AACkhuy1z1e2898593574
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCpt78543208686717037 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6483.5) To (1528.5, -6323.631578947368)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6483.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6323.631578947368).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [71]: 
+ @Action ConcreteID = AC16q7ulgb0232693845 AbstractID = AA16q7ulgb0232693845
+ ConcreteID CUSTOM = ACC1p2au9pb263034130 AbstractID CUSTOM = AACkhuy211e1266493985
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1hpan2q32252851961263 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6446.5) To (1528.5, -6085.789473684211)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6446.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6085.789473684211).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [72]: 
+ @Action ConcreteID = AC6rqlhkb03998681448 AbstractID = AA6rqlhkb03998681448
+ ConcreteID CUSTOM = ACC3wcxffb23218513551 AbstractID CUSTOM = AACkhuy1t1e1168548371
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1cmsaoo32223870636375 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6404.5) To (1528.5, -6311.578947368421)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6404.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6311.578947368421).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [73]: 
+ @Action ConcreteID = AC14nxljxb01415961525 AbstractID = AA14nxljxb01415961525
+ ConcreteID CUSTOM = ACC1hzh7brb12498457213 AbstractID CUSTOM = AACkhuy1v1e2879963967
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC8szuym32134101985062 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6365.5) To (1528.5, -5837.421052631579)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6365.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5837.421052631579).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [74]: 
+ @Action ConcreteID = AC9x9tb8b01283127254 AbstractID = AA9x9tb8b01283127254
+ ConcreteID CUSTOM = ACC1pgugsnb02747567324 AbstractID CUSTOM = AAC1lxzmfr1d256421534
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1tsq52320f214491008 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6324.5) To (1528.5, -6198.105263157895)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6324.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -6198.105263157895).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [75]: 
+ @Action ConcreteID = ACacak09b12803835258 AbstractID = AAacak09b12803835258
+ ConcreteID CUSTOM = ACCe511bqb33761172457 AbstractID CUSTOM = AAC1lxzmfo1d1912197667
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC13kr69v31ff3090825937 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6285.5) To (1528.5, -5723.9473684210525)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6285.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5723.9473684210525).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [76]: 
+ @Action ConcreteID = ACei1gb2b0285226442 AbstractID = AAei1gb2b0285226442
+ ConcreteID CUSTOM = ACC16e5eypb12475061453 AbstractID CUSTOM = AACkhuy1y1e3686938544
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCvy3w3l320f1278555237 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6245.5) To (1528.5, -5784.368421052632)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6245.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5784.368421052632).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [77]: 
+ @Action ConcreteID = AC1igbg85b02897773363 AbstractID = AA1igbg85b02897773363
+ ConcreteID CUSTOM = ACC1d3f43cb11929950430 AbstractID CUSTOM = AAC1lxzmfk1d1989416506
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCo6gwjx320b3016559537 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6205.5) To (1528.5, -5777.842105263158)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6205.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5777.842105263158).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [78]: 
+ @Action ConcreteID = ACs545dwac3985631519 AbstractID = AAs545dwac3985631519
+ ConcreteID CUSTOM = ACC1y7yv70ac1647212260 AbstractID CUSTOM = AAC14w8zcv1d2938423352
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1ygrhvg323a36477551 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (735.8122721749696, 408.5) To (1062.0, 408.5)
+	TEXT = Compound Action =
+		Move mouse to (735.8122721749696, 408.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1062.0, 408.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [79]: 
+ @Action ConcreteID = AC15nzh61b02189378609 AbstractID = AA15nzh61b02189378609
+ ConcreteID CUSTOM = ACC15e8rbxb22889692677 AbstractID CUSTOM = AAC1lxzmfm1d2560259862
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1ua6qv031fd2398935491 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6163.5) To (1528.5, -5769.315789473684)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6163.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5769.315789473684).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [80]: 
+ @Action ConcreteID = ACxebt2lb0716692563 AbstractID = AAxebt2lb0716692563
+ ConcreteID CUSTOM = ACC1c4t35gb13443223375 AbstractID CUSTOM = AAC1lxzmfq1d2683810575
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCv4t50932131955116452 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6124.5) To (1528.5, -5696.842105263158)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6124.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5696.842105263158).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [81]: 
+ @Action ConcreteID = ACu9d2tjb01931270353 AbstractID = AAu9d2tjb01931270353
+ ConcreteID CUSTOM = ACCzf45byb14256294476 AbstractID CUSTOM = AAC1lxzmfl1d4020062080
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1l690p32284020367366 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6085.5) To (1528.5, -5791.736842105263)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6085.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5791.736842105263).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [82]: 
+ @Action ConcreteID = ACi62lgwb1450226925 AbstractID = AAi62lgwb1450226925
+ ConcreteID CUSTOM = ACC1v8kolmb33448252995 AbstractID CUSTOM = AACkhuy1w1e902583964
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1nhcn5032081993814475 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6045.5) To (1528.5, -5986.0526315789475)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6045.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5986.0526315789475).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [83]: 
+ @Action ConcreteID = ACxqcl4yb0447375593 AbstractID = AAxqcl4yb0447375593
+ ConcreteID CUSTOM = ACC1lzcye3b11657228064 AbstractID CUSTOM = AAC1lxzmfr1d256421534
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCkfgkb232263615591871 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -6005.5) To (1528.5, -5477.421052631579)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -6005.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5477.421052631579).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [84]: 
+ @Action ConcreteID = AC1qckin0b01132098494 AbstractID = AA1qckin0b01132098494
+ ConcreteID CUSTOM = ACCp7d2c8b01794307925 AbstractID CUSTOM = AAC1lxzmfn1d117367477
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC19hylz3228545618802 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -5964.5) To (1528.5, -5436.421052631579)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -5964.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5436.421052631579).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [85]: 
+ @Action ConcreteID = ACffmogba24081088384 AbstractID = AAffmogba24081088384
+ ConcreteID CUSTOM = ACC1qj0s4sa31469047589 AbstractID CUSTOM = AAC14w8zcu1d908958082
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCxpctei320f1513688422 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (458.5, -424.5) To (1062.0, -424.5)
+	TEXT = Compound Action =
+		Move mouse to (458.5, -424.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1062.0, -424.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [86]: 
+ @Action ConcreteID = AC1ava2a3a22417175484 AbstractID = AA1ava2a3a22417175484
+ ConcreteID CUSTOM = ACC1kqhyrga42244295993 AbstractID CUSTOM = AAC14w8zcu1d908958082
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC19lex3932484197967319 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (458.5, -422.5) To (1062.0, -422.5)
+	TEXT = Compound Action =
+		Move mouse to (458.5, -422.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1062.0, -422.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [87]: 
+ @Action ConcreteID = ACvlkxnma53679530313 AbstractID = AAvlkxnma53679530313
+ ConcreteID CUSTOM = ACC1npuumpa71334261249 AbstractID CUSTOM = AACkhuy1w1e902583964
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC19lex3932484197967319 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -5923.5) To (1528.5, -5931.0)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -5923.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5931.0).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [88]: 
+ @Action ConcreteID = AC15w6bb4b03107695650 AbstractID = AA15w6bb4b03107695650
+ ConcreteID CUSTOM = ACC1w9fq0rb22287456681 AbstractID CUSTOM = AACkhuy1w1e902583964
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1lh5qmt320b1506736885 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -5886.5) To (1528.5, -5760.105263157895)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -5886.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5760.105263157895).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [89]: 
+ @Action ConcreteID = AC1q4pyaab02632624815 AbstractID = AA1q4pyaab02632624815
+ ConcreteID CUSTOM = ACCx2wem3b2168936563 AbstractID CUSTOM = AAC1lxzmfl1d4020062080
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1ky82bl32042929485188 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -5845.5) To (1528.5, -5250.473684210527)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -5845.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5250.473684210527).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [90]: 
+ @Action ConcreteID = AC1p0bt5gb0337436801 AbstractID = AA1p0bt5gb0337436801
+ ConcreteID CUSTOM = ACC1l44dv0b23473512849 AbstractID CUSTOM = AAC1lxzmfn1d117367477
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1eti55n31fd4159612503 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -5805.5) To (1528.5, -5444.789473684211)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -5805.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5444.789473684211).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [91]: 
+ @Action ConcreteID = AC1wi7fdlb02899330183 AbstractID = AA1wi7fdlb02899330183
+ ConcreteID CUSTOM = ACCo8z74ab02864425098 AbstractID CUSTOM = AAC1lxzmfl1d4020062080
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCxdmyem3227811253910 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -5764.5) To (1528.5, -5604.631578947368)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -5764.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5604.631578947368).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [92]: 
+ @Action ConcreteID = AC1ggmuzcb02573636769 AbstractID = AA1ggmuzcb02573636769
+ ConcreteID CUSTOM = ACC1w8y23qb21840624756 AbstractID CUSTOM = AACkhuy1u1e3702518697
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC162j925321b2515198850 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -5725.5) To (1528.5, -5599.105263157895)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -5725.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5599.105263157895).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [93]: 
+ @Action ConcreteID = ACbgqjx6b1834490173 AbstractID = AAbgqjx6b1834490173
+ ConcreteID CUSTOM = ACC159cc27b21910244746 AbstractID CUSTOM = AACkhuy1s1e849449605
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCCedtcg131f82835335357 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -5685.5) To (1528.5, -5492.1578947368425)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -5685.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5492.1578947368425).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [94]: 
+ @Action ConcreteID = ACeyhzv1b03250139114 AbstractID = AAeyhzv1b03250139114
+ ConcreteID CUSTOM = ACC1563tbyb24226579904 AbstractID CUSTOM = AAC1lxzmfn1d117367477
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC18t9ttd32192622934531 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -5644.5) To (1528.5, -5049.473684210527)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -5644.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5049.473684210527).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [95]: 
+ @Action ConcreteID = AC1qbus1sa02164783563 AbstractID = AA1qbus1sa02164783563
+ ConcreteID CUSTOM = ACC1enh9eka02311360221 AbstractID CUSTOM = AAC14w8zcv1d2938423352
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC7mumhr31f3388825255 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1044.5, 967.5) To (451.0, 967.5)
+	TEXT = Compound Action =
+		Move mouse to (1044.5, 967.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (451.0, 967.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [96]: 
+ @Action ConcreteID = AC1e91hajb01327546407 AbstractID = AA1e91hajb01327546407
+ ConcreteID CUSTOM = ACC1shxaggb13422506145 AbstractID CUSTOM = AACkhuy1w1e902583964
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1sg1bse3209364882407 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -5603.5) To (1528.5, -5142.368421052632)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -5603.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5142.368421052632).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [97]: 
+ @Action ConcreteID = AC1vyouowb02060866226 AbstractID = AA1vyouowb02060866226
+ ConcreteID CUSTOM = ACC1mmww23b23568727329 AbstractID CUSTOM = AAC1lxzmfn1d117367477
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC1qiudhj320d4105981944 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -5566.5) To (1528.5, -5038.421052631579)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -5566.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5038.421052631579).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [98]: 
+ @Action ConcreteID = AC1f6fm9mb01020553735 AbstractID = AA1f6fm9mb01020553735
+ ConcreteID CUSTOM = ACCzavxq2b11569364937 AbstractID CUSTOM = AACkhuy1s1e849449605
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC8yc8nz31fd1515019766 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -5525.5) To (1528.5, -5231.736842105263)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -5525.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5231.736842105263).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [99]: 
+ @Action ConcreteID = AC1rlxp9cae1157823952 AbstractID = AA1rlxp9cae1157823952
+ ConcreteID CUSTOM = ACCb2pqkgb02005757392 AbstractID CUSTOM = AAC14w8zcw1d3626236078
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC11pqfwg320b4288875827 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1044.5, 1089.5) To (856.6666666666667, 1089.5)
+	TEXT = Compound Action =
+		Move mouse to (1044.5, 1089.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (856.6666666666667, 1089.5).
+		Release Mouse Button BUTTON1
+
+ExecutedAction [100]: 
+ @Action ConcreteID = AC1r1pzp4b02809321106 AbstractID = AA1r1pzp4b02809321106
+ ConcreteID CUSTOM = ACC1i4l0nfb21110526082 AbstractID CUSTOM = AACkhuy1t1e1168548371
+ @State ConcreteID = SC5wx2to2da92922463122 AbstractID = SR5u1cvl27dd1334812527
+ ConcreteID CUSTOM = SCC146gb4332093149730417 AbstractID CUSTOM = SACrwbsoef89334230197
+
+	ROLE = LeftDrag
+	DESCRIPTION = Drag (1528.5, -5483.5) To (1528.5, -5156.263157894737)
+	TEXT = Compound Action =
+		Move mouse to (1528.5, -5483.5).
+		Press Mouse Button BUTTON1
+		Move mouse to (1528.5, -5156.263157894737).
+		Release Mouse Button BUTTON1
+
+Sequence 3 finished.
+Saved generated sequence ("C:\Users\jose_\Desktop\test-output\2021-12-21_21h45m36s_nhlstenden\sequences\2021-12-21_21h56m04s_nhlstenden_sequence_3.testar")
+Copying classified sequence ("C:\Users\jose_\Desktop\test-output\2021-12-21_21h45m36s_nhlstenden\sequences\2021-12-21_21h56m04s_nhlstenden_sequence_3.testar") to sequences_ok folder...
